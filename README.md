@@ -158,9 +158,10 @@ Start the frontend, admin panel, and backend using the scripts defined in their 
 
 
 
-Notes
+##Notes
 
 
 
 This project was developed as an individual academic project.
 
+The repository was originally maintained under a different GitHub account and later moved to this account for portfolio purposes.
